@@ -1,4 +1,21 @@
 # E-commerce_product_page_design
+##DESIGN AN INNOVATIVE PRODUCT PAGE
+ FOR AN E-COMMERCE PLATFORM WITH
+ FEATURES LIKE 360° PRODUCT VIEWS AND
+ CUSTOMER REVIEWS.
+COMPANY : CODTECH IT SOLUTIONS
+
+NAME : JISSA AAN JUBY
+
+INTERN ID : CT04DF1670
+
+DOMAIN : FIGMA
+
+DURATION : 4 WEEKS
+
+MENTOR : NEELA SANTOSH
+
+DESCRIPTION OF THE TASK PERFORMED NOT UNDER 500 WORDS
 # 🖤 SOLEIRA – E-Commerce Product Page (3D + UI/UX)
 
 An innovative, interactive product page concept for the futuristic heel-less shoe brand **SOLEIRA**, combining immersive 3D design with sleek, functional UI/UX in Figma.
