@@ -10,6 +10,7 @@ Built using:
 - 📱 Fully responsive design with mobile & desktop views
 
 ---
+Heres a sneak peek:
 
 ## 👠 Product: SOLEIRA NOIRE 100
 
@@ -43,7 +44,6 @@ It blends geometry, fashion, and tech with a **Y2K-inspired edge**.
 
 ---
 
-Heres a sneak peek:
 
 ##🌀 Spline 3D Model View
 html
