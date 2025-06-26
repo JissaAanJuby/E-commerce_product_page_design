@@ -79,40 +79,40 @@ It blends geometry, fashion, and tech with a **Y2K-inspired edge**.
 ---
 
 
-##🌀 Spline 3D Model View
-html
-Copy
-Edit
+```markdown
+## 🌀 Spline 3D Model View
+
+```html
 <iframe src="https://my.spline.design/untitled-Sd70XULoupkuBJdZb3q2Qa2V/" 
 frameborder="0" width="100%" height="100%">
 </iframe>
+```
 
+---
 
-##🩰 Product Highlight
-SOLEIRA NOIRE 100 👠
+## 🩰 Product Highlight
+
+SOLEIRA NOIRE 100 👠  
 A heel-less, high-ankle boot that defies gravity — reimagining traditional footwear design.
 
-🚫 No visible heel
-
-🔺 Geometric 3D support under arch
-
-🖤 Wine-black palette
-
-✨ Futuristic Y2K aesthetic
-
+🚫 No visible heel  
+🔺 Geometric 3D support under arch  
+🖤 Wine-black palette  
+✨ Futuristic Y2K aesthetic  
 🎭 Fashion meets structural minimalism
 
+---
 
-##🛍️ CTA Buttons
+## 🛍️ CTA Buttons
 
-🟫 Add To Cart
+🟫 Add To Cart  
 🤍 Favourites
 
+---
 
-##📁 Project Structure
+## 📁 Project Structure
 
-Copy
-Edit
+```bash
 soleira-product-page/
 ├── README.md
 ├── assets/
@@ -125,23 +125,31 @@ soleira-product-page/
 │   ├── soleira.fig
 │   └── soleira.splinecode
 └── index.html
+```
 
-##💡 About the Project
+---
+
+## 💡 About the Project
+
 This design was created as part of a UX/UI concept task:
 
 "Design an innovative product page for an e-commerce platform with features like 360° product views and customer reviews."
 
-##🖌️ Key Features:
-Interactive product model
+---
 
-Fully scrollable mobile & desktop versions
-Clear delivery and pricing information
-Emphasis on art + fashion
+## 🖌️ Key Features
 
-##🤝 Credits
+- 🎥 Interactive product model  
+- 📱 Fully scrollable mobile & desktop versions  
+- 🧾 Clear delivery and pricing information  
+- 🖼️ Emphasis on art + fashion  
 
-👩‍🎨 Designed by: Jissa Aan Juby
-🧠 Concept: Heel-less futuristic fashion
+---
+
+## 🤝 Credits
+
+👩‍🎨 Designed by: Jissa Aan Juby  
+🧠 Concept: Heel-less futuristic fashion  
 🛠️ Tools: Figma, Spline, StreamlineHQ
-
+```
 
