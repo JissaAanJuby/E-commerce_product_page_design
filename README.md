@@ -12,6 +12,40 @@ Built using:
 ---
 Heres a sneak peek:
 
+![Image](https://github.com/user-attachments/assets/7fd51296-8c01-4fdb-8929-79aba2c49247)
+
+![Image](https://github.com/user-attachments/assets/a8232362-331d-4ac5-9097-091a6e678e3b)
+
+![Image](https://github.com/user-attachments/assets/b6b83f56-28a9-41d5-a3e2-66105b29d5aa)
+
+![Image](https://github.com/user-attachments/assets/6707192b-34c2-4b43-b1fe-462103bea1f8)
+
+
+
+#figma file link:
+
+https://www.figma.com/design/fMosfzEuhtSUoRfIfLd88A/Untitled?node-id=0-1&t=ZiWXdaQH2lS349Yl-1
+
+#figma embed code:
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/fMosfzEuhtSUoRfIfLd88A/Untitled?node-id=0-1&embed-host=share" allowfullscreen></iframe>
+
+#figma prototype link:
+
+https://www.figma.com/proto/fMosfzEuhtSUoRfIfLd88A/Untitled?node-id=0-1&t=ZiWXdaQH2lS349Yl-1
+
+#figma dev mode link:
+
+https://www.figma.com/design/fMosfzEuhtSUoRfIfLd88A/Untitled?node-id=0-1&m=dev&t=ZiWXdaQH2lS349Yl-1
+
+#spline public url:
+
+https://my.spline.design/untitled-Sd70XULoupkuBJdZb3q2Qa2V/
+
+#spline embed code:
+
+<iframe src='https://my.spline.design/untitled-Sd70XULoupkuBJdZb3q2Qa2V/' frameborder='0' width='100%' height='100%'></iframe>
+
 ## 👠 Product: SOLEIRA NOIRE 100
 
 > “Defying gravity and reimagining silhouette.”
