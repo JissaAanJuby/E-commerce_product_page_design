@@ -22,27 +22,27 @@ Heres a sneak peek:
 
 
 
-#figma file link:
+##figma file link:
 
 https://www.figma.com/design/fMosfzEuhtSUoRfIfLd88A/Untitled?node-id=0-1&t=ZiWXdaQH2lS349Yl-1
 
-#figma embed code:
+##figma embed code:
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/fMosfzEuhtSUoRfIfLd88A/Untitled?node-id=0-1&embed-host=share" allowfullscreen></iframe>
 
-#figma prototype link:
+##figma prototype link:
 
 https://www.figma.com/proto/fMosfzEuhtSUoRfIfLd88A/Untitled?node-id=0-1&t=ZiWXdaQH2lS349Yl-1
 
-#figma dev mode link:
+##figma dev mode link:
 
 https://www.figma.com/design/fMosfzEuhtSUoRfIfLd88A/Untitled?node-id=0-1&m=dev&t=ZiWXdaQH2lS349Yl-1
 
-#spline public url:
+##spline public url:
 
 https://my.spline.design/untitled-Sd70XULoupkuBJdZb3q2Qa2V/
 
-#spline embed code:
+##spline embed code:
 
 <iframe src='https://my.spline.design/untitled-Sd70XULoupkuBJdZb3q2Qa2V/' frameborder='0' width='100%' height='100%'></iframe>
 
